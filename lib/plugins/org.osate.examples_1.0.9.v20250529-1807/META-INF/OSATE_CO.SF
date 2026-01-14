@@ -1,0 +1,531 @@
+Signature-Version: 1.0
+Created-By: 21.0.8 (Ubuntu)
+SHA-384-Digest-Manifest: jcesjiEjKhLjFHC9puDuNFr8pUtWZ4UYC8m6V0LeENa8Xkb
+ WqtI+XA1+Q/1jhjTN
+SHA-384-Digest-Manifest-Main-Attributes: p4dLR/H0NsbURk0/xj11EHhPEole9Gj
+ 6ve7KAPlgzom9ko/4ZP+hufrq1ovo5pWb
+
+Name: examples/arp4761/simple/pump.aadl
+SHA-384-Digest: HzcXRw6Le7mONRKOzcYxULFfFTnY+TpCyQvVO7v+1f79iVFINC6jnH9N
+ 58Di7M8R
+
+Name: plugin.xml
+SHA-384-Digest: LZpKIsD68fW+5bepyhXeDPXYQoYYILpEro4oVGqlQ0fQVUx256QmHo1g
+ SxixisL7
+
+Name: META-INF/maven/org.osate/org.osate.examples/pom.xml
+SHA-384-Digest: fu3HLYTtCLJmk61hJ+W37138ZzUi3Ew4DeAiCBcit/1ZBthcXcWxiNvp
+ gQ+m2rmP
+
+Name: examples/ACVIP_ALISA/ALISA_Example/isoletteSystemCategories.cat
+SHA-384-Digest: ljtya5pIhPCiAqsHs6KmGeGeoCqLV9iWogmAK6G+INgq8CCKwqtZoBZa
+ g4cW8SYU
+
+Name: examples/arp4761/simple/valves.aadl
+SHA-384-Digest: 6MAUJPtQRlC8LpBwwk+yq1suftriv1UP3tS22U+/biIEFi6ZYer178bK
+ M9pfzmBC
+
+Name: examples/safety-tutorial/packages/GPSParts.aadl
+SHA-384-Digest: KNQ4c6dzGioMwQ/P53iOJeJShtFqOABSffc7Tn547BYbfO7fsAxwYaw1
+ BZYZ4UpU
+
+Name: examples/stepper-motor/Propertysets/CasePSC.aadl
+SHA-384-Digest: i7/HiIpD9swqHLzP094m4LTOl4+KiKk8hMh4AJW9yj5eGTaAxI4O0yU1
+ vT02Rfx9
+
+Name: examples/ACVIP_ALISA/SCSProject/operator_interface.aadl
+SHA-384-Digest: wIw8pcewyr0VGZ43ZXx5hNyLd+90SlFxvE2d8WHIBr+0ZF6oRb1IILZI
+ W13cGXzQ
+
+Name: examples/safety-tutorial/packages/FlightSystem.aadl
+SHA-384-Digest: tlmJLVDMHAS+zIGuLTPG087shTspe5eUmRzAJGvnPlBglN11hu8ePK46
+ 19lDkIFO
+
+Name: examples/continuous-safety-risk-evaluation/AircraftSafetyExample_A
+ OAVendors.aadl
+SHA-384-Digest: r86AHhbsKajQnEO1Ard03sX+fpvdzLiqqTpklIOjnaiNA4kzkzubOEtF
+ JT2LU3I6
+
+Name: examples/arp4761/advanced/integration/WBSMappingErrorLib.aadl
+SHA-384-Digest: B15NTSQMH/wE+K9zZKnaFa6K/h9z8JAO5P4VxHiIIDHls1b46wsfm63T
+ e4L4PYIX
+
+Name: examples/continuous-safety-risk-evaluation/diagrams/AircraftSafety
+ Example_ACCAOARedundancy_ac_TwoSensorSpec.aadl_diagram
+SHA-384-Digest: pTo+7ettQ9ZmFkFijr8xPh1oUnDTC34zBGe0iUaPmJVy09OqEo68WYak
+ 4Fb3RP6E
+
+Name: examples/continuous-safety-risk-evaluation/AircraftSafetyExample_A
+ OADiscrepancy.aadl
+SHA-384-Digest: W4wDSxY8ZzQvK9os1Ez/75ElzsBcfc4uldHqpvxb1vhXLfEl7FuC2uuu
+ YOLh98ZA
+
+Name: examples/speed-regulation/diagrams/speed_regulation_integration_in
+ tegration_implementation1.aadl_diagram
+SHA-384-Digest: cyGayQRU7sAstqraWOdkadQ79dg9Rdnv8cpZ/ZbJbrvVsOJNEMyN2Znj
+ GWTh9+nW
+
+Name: examples/arp4761/advanced/functional/wbs/generic.aadl
+SHA-384-Digest: 7Zt+yDkXekqDi98Fkr3akT05pIWzcymM9aQfgyErIrK9MUYK/DhS+bLY
+ tTgWNZEh
+
+Name: examples/arp4761/advanced/implementation/platform.aadl
+SHA-384-Digest: 5XHUoTP/EB3NaLW5hMUyG3TbMgEyCe44FcWCPOoxXaXs5jVWjklIb1pS
+ qGYli0u+
+
+Name: examples/arp4761/advanced/implementation/valves.aadl
+SHA-384-Digest: N+auEMPRgk6borsAZuM9vqvRiLR39FggXxIDZ89BD/D6gv5y6NWRQ47/
+ xZAcvjx0
+
+Name: examples/ACVIP_ALISA/SCSProject/heat_source.aadl
+SHA-384-Digest: XkeLZqcuAmXHoRrf4YiSs+qXi515t8dUuwA75nE2Q9yaowIWc26aBPzw
+ BEMNH/f7
+
+Name: examples/resource-budget/doc/html/images/tier2_bound_resource_repo
+ rt.png
+SHA-384-Digest: i5ag8KyX72IMLFXHVd8Or49uK3r+fCy1t1dOT0Gbhku+Qr3T97C+e+Cr
+ pegGZrlI
+
+Name: examples/arp4761/advanced/functional/generic_functions.aadl
+SHA-384-Digest: 9uFo9fbohdvudWviGqPXJCZb6u46SCR3RBQ+dJImYw+hQh58hsDe8bBo
+ IbeGJgP3
+
+Name: examples/arp4761/simple/power.aadl
+SHA-384-Digest: DpKr+0XdJnFzjlesJzUgJU6hNMBDtg4mj7pUAj6g2fiDBLTuKkP8hKfM
+ wAZNx8i7
+
+Name: examples/arp4761/simple/common.aadl
+SHA-384-Digest: hZ/GKvnm2qxKzBWXbUWLomKgc10vDcssQQKnimdvCm7bEkgz4kSbLp/F
+ 1io6RpIk
+
+Name: examples/safety-tutorial/diagrams/GPSSystem_GPS_basic.aadl_diagram
+SHA-384-Digest: z/JIq/Mg3nOCIGcmckJkHv/noMKJWaF3u+QFjLSxqXVOYJ5hnhlWAMus
+ lpLVVW9K
+
+Name: examples/arp4761/diagrams/impl_bscu.aadl_diagram
+SHA-384-Digest: Y66uyIoyE1+yk9NlgdDVW/x1+u/YdF2OTrAI67MY9Gy29l216GFCFe8B
+ Vz4w8LfF
+
+Name: examples/arp4761/advanced/functional/wbs/main.aadl
+SHA-384-Digest: TzivMILEP2PNS0NbfZAR2na3zbZnNEk9/YKPRG3ayeG1/CZyuyag1mh3
+ 8cJHXuKN
+
+Name: examples/arp4761/advanced/functional/wbs/command-control.aadl
+SHA-384-Digest: punjunVrgP+8DizLCtlkeTlvfDFS+n6bBk/xMZ9Si7HtyibPw4poCLNQ
+ aYZQdOgM
+
+Name: examples/arp4761/diagrams/impl_bscu(2).aadl_diagram
+SHA-384-Digest: ueq9coBgHI2HypT8QxIAxjHDNkvIOWH/3Uh+OwLzCBFl8wc4SFq0NCea
+ w+AFozPq
+
+Name: examples/continuous-safety-risk-evaluation/acemlib.aadl
+SHA-384-Digest: W6sT7Vn+yFdO7KgPuryhlKfeO0yFseFWTone1dZ8rZQ3RYB3PdXuCC/Y
+ 0v9V7ats
+
+Name: examples/arp4761/advanced/common/WBSPS.aadl
+SHA-384-Digest: Z8AA0N56pN/Ub9ZAdRNnntA7ReTARCSaP0CyKwpIylOjfMPGuJ/01Au9
+ 5e5jy+NB
+
+Name: examples/arp4761/advanced/functional/hydraulic.aadl
+SHA-384-Digest: YoI8hOvWMwBOVakeaQc2U1hZe2IPyuSzFOW8VgN8y+LwhWthrsW3amXr
+ FgjPxA/w
+
+Name: examples/ACVIP/Infrastructure/Infrastructure.aadl
+SHA-384-Digest: 17pTxaamFcX4ej3tvljCM2/7UvGAUTwNPD/S84byLRR481P0C0HkGzcQ
+ NJJ89CJt
+
+Name: examples/ACVIP_ALISA/SCSProject/isoletteSystem.aadl
+SHA-384-Digest: PMP2zFqvSfUXo/BlDhPpVqpkiOPmOn/QYAneYlEF5sjsCC6tYDoHAHEK
+ qRxVf6/c
+
+Name: examples/arp4761/simple/platform.aadl
+SHA-384-Digest: O0Ou4yStpV+NW9DAHJUEz4EmtZkhRccmZaPN3htb9V1mbcdy+qvg7Ts8
+ J3Lcz65C
+
+Name: examples/safety-tutorial/diagrams/FlightSystem_FlightSystem_tier1.
+ aadl_diagram
+SHA-384-Digest: GKNNZWgWvTaktKDhro81/LplMC9EDHMXae2DUEiXEJJKkyD0LmxPk0Qk
+ nm8dSWez
+
+Name: examples/safety-tutorial/packages/HardwareParts.aadl
+SHA-384-Digest: 0LQwn6Chp9ZXSA6EJ51y2HnlT4afqDBc2fwEYzV6llapKvgQcz/32qFo
+ C0K5fr9g
+
+Name: examples/safety-tutorial/packages/GPSErrorLibrary.aadl
+SHA-384-Digest: lOKGKAVUaaBoxIUMLFmwtQWX3oi5SDd1HQbFu2DUl5LTY4+WorcLEhqy
+ AeRN+vaA
+
+Name: examples/ACVIP/MSI/SCS.aadl
+SHA-384-Digest: gRg7G/fnQ12Uo6lVZQ3XRxbef+FnY87plbJ9mlTTaAbtRFc8R5DGqk/o
+ D+Md6Vjj
+
+Name: examples/arp4761/simple/pedals.aadl
+SHA-384-Digest: Z3+k5xZoQBjUEFuBHonFpFEPWJm2WFl3oljVynJFs9sJl12/MkLXFa2f
+ WqJqqIyv
+
+Name: examples/resource-budget/.project
+SHA-384-Digest: 2QVLuvCcXKCM6ctzTTjerZD3POLFnUfzAhFrO+WGqVfYWzLE3aNaHVbp
+ 5cIpn2Gm
+
+Name: examples/ACVIP_ALISA/ALISA_Example/.project
+SHA-384-Digest: s1xQRLV4llcHF4GpWTTSgcC+fOnemr2Zmy3MY54faHsFe8zc3iaz6W0Y
+ izHG/6es
+
+Name: examples/arp4761/advanced/implementation/WBSImplementationErrorLib
+ .aadl
+SHA-384-Digest: XcdyUoz26Fl0Z2eRKEaX0dAV1ho12ou7hW0TuZZL5z5aTEWxqVTR96Po
+ RmaH7dh8
+
+Name: examples/ACVIP/doc/html/README.html
+SHA-384-Digest: Tb9iS/OaqgX+XaztbeSEEAgUMFExJ3+3mjNI5yMaW7qsfeZ/kgVwAPnZ
+ +wQplzFZ
+
+Name: examples/ACVIP/SensorsInc/SimpleSensor.aadl
+SHA-384-Digest: FUhKDGrwebk2+QikK7AJvhDBEr6PoWkb5Ghe4Q1iNix7xTUSI+dDyrfB
+ RCDKHDOI
+
+Name: examples/ACVIP/DataDictionary/DataDictionary.aadl
+SHA-384-Digest: 8KtevRsnNo5o0BiQP+GCf0bAIPMMtXHDbiFLiVu0X1M7Onmy/wHF2Zm8
+ 68MJCTns
+
+Name: examples/safety-tutorial/packages/FlightControl.aadl
+SHA-384-Digest: wAHM4KBsm8232Tgr3aC4X9qnFFkD+b7kkmaIMZ3/O4Jz8z04E2YM5Opy
+ FkM33NJv
+
+Name: examples/ACVIP_ALISA/SCSProject/.project
+SHA-384-Digest: iph8grgyTuOI+012s8rSBLKA8TaN6UE0IUBf5WblDiHbGCtXmpuZYTGF
+ +S5X70xo
+
+Name: examples/ACVIP/InitialSCS.aadl
+SHA-384-Digest: YO9xW0z1PZjc3xFehseNJIaT1EBTLegJqji2l0Ow4cB9UZdCSdyLWdWR
+ LGJxrXwQ
+
+Name: examples/arp4761/doc/html/README.html
+SHA-384-Digest: M+1+2XNk294+ghrDXvFhUip/f4vFO5+ShmhodTRG2lBkcqSFTEe/PJbr
+ 2eGjqSix
+
+Name: examples/arp4761/advanced/implementation/pump.aadl
+SHA-384-Digest: N7viasN/JpTmfMESkK+KjpRbJj1J9ru+VtSxA7uyXt+2GOvCuZDZCjJb
+ IKar9Xmk
+
+Name: examples/ACVIP_ALISA/SCSProject/thermostat.aadl
+SHA-384-Digest: 6MUxc+5dH4VBPevqJxi0OsJgOONLvyikicAKJ/sFUDCXyAwNDJwm816x
+ CsAwsOPV
+
+Name: examples/arp4761/simple/proofs.aadl
+SHA-384-Digest: kUdoBNue6fhp6aFwtSgM0PLLl43Xyf0Gr1D0DTDx3yTubOFnC5cPMsb/
+ 95gXbPAo
+
+Name: examples/speed-regulation/model/software.aadl
+SHA-384-Digest: DZXVEvFNbY/Ctme7aqUl6H15Z0k0iZOZoAenjWQws2c5cqj9srU2SBbb
+ GpZvfbK2
+
+Name: examples/speed-regulation/model/platform.aadl
+SHA-384-Digest: m2kNlDcQC6GC3g57Wgio5n6NagMTwb9PWP18/3W/J7XnHw5sqUjW5A5Z
+ 9z3NXmXd
+
+Name: examples/arp4761/simple/bscu.aadl
+SHA-384-Digest: Gdp7fOB9/RvTz7hyaUhKituX+sQ8p1OktS0FYyqOAbHVNqxD3DbBjjst
+ KBCXu2vj
+
+Name: META-INF/maven/org.osate/org.osate.examples/pom.properties
+SHA-384-Digest: kVWb+mjtX5eAu7wmBivRYW2fubXVTGxKqvqwpoWZpNzcgmQEOdeAgwHr
+ f4x2d+4h
+
+Name: examples/speed-regulation/diagrams/speed_regulation_integration_in
+ tegration_implementation2.aadl_diagram
+SHA-384-Digest: vYJMRg8ZZcljJ5cl33+GHWjX6UaYvxz5Low2SMnlrfvRq9C/5o1RcaxN
+ xIERA0vW
+
+Name: examples/stepper-motor/packages/CasePositionControl.aadl
+SHA-384-Digest: 6B46TLmDlzncENbmBr93Tcu9qh0ofr7/1m7Ks8cGeI9djgL4IQk3Wrgu
+ UhvdfcMG
+
+Name: examples/ACVIP_ALISA/ALISA_Example/doc/html/images/analyses-menu.p
+ ng
+SHA-384-Digest: 93m+3aYfQ38LIyh8Pc6b5p8+ADLgtcrBxIWl6L7PXJLjkZILODmnoxaJ
+ l6A8m5N+
+
+Name: examples/arp4761/advanced/functional/electrical.aadl
+SHA-384-Digest: Gs8emPjA2I06vNGi3uEDAK28wA6lErvkjdj5pdCjPejnVYXNLMw2jJmn
+ wzvLwCc1
+
+Name: examples/continuous-safety-risk-evaluation/doc/ContinuousSafetyRis
+ kEvaluationByExample-WhitePaper.pdf
+SHA-384-Digest: 80QV8mp6tBN/ineIK/OLNry2CfrxS3x8UrMBDzfSyrBgj713wObhRWN2
+ iMHodVBH
+
+Name: examples/arp4761/diagrams/impl_bscu_bscu_generic.aadl_diagram
+SHA-384-Digest: DUdiLWS1T1Asr4KTh6OJC83x2d1hwldEF92vv8luY82Z3RoiNauTCwWZ
+ jz21YQBX
+
+Name: icons/aadl.gif
+SHA-384-Digest: 3FJ5r7r9dunB+eNyA/oVGongWppXhW5tnd1tH+3LAQ7dYaRxR7qypp8a
+ eX9chKA7
+
+Name: examples/stepper-motor/diagrams/CasePositionControl_SMS_Operationa
+ l_Environment_original.aadl_diagram
+SHA-384-Digest: j8VXZxC5JmCPyricgi0BkB8oc6XiZNi6naUZzwVAb9f88FGOqvy24nQB
+ H8UPb7S7
+
+Name: examples/safety-tutorial/packages/AutomatedFlightGuidance.aadl
+SHA-384-Digest: zAbR3UMunwcmYWa6LIK12oA5L6xHXKSRUK9pVbtFyTCOLDpL3b7MYBzt
+ YmsIIAT/
+
+Name: examples/stepper-motor/diagrams/CasePositionControl_SMS_Original.a
+ adl_diagram
+SHA-384-Digest: YiHIC+L5J2CAhtNLO/SZ+7nyCPBzDaCqhd++yB5UmQcnnzKn2jEB/4RJ
+ cde8kOhU
+
+Name: examples/continuous-safety-risk-evaluation/AircraftSafetyExample_A
+ CCAOARedundancy.aadl
+SHA-384-Digest: cCb1RsqcJcCz4hFyd6mJCeIAMwWMyBzDHAQDj6WjxgIZCMvOTLf05Eoa
+ PzrCpyjx
+
+Name: examples/ACVIP_ALISA/ALISA_Example/isoletteSystemRequirements.reqd
+ oc
+SHA-384-Digest: 4GI4TyBn00O5Ph6e+q8izatTtxzDIXdB+0PclgWe5ZqjAjdZum4BMIxR
+ CEW00/7G
+
+Name: examples/arp4761/advanced/implementation/power.aadl
+SHA-384-Digest: H6ZumCzef2xU2h8w0k805pB+bxfmxiakzcmMYfIoeABK5SmPDtgGYbUX
+ RY2kXCkD
+
+Name: examples/speed-regulation/model/error.aadl
+SHA-384-Digest: MBeJW0MornSr3JCIrVy9QZyK52C1CbyCmZd7L4IhZ48UIuk7/40sH4uK
+ tcYGwGEv
+
+Name: examples/ACVIP_ALISA/ALISA_Example/SysVerify.verify
+SHA-384-Digest: YStc1wqW9TN2+Eg8Dp9DE2rnssidjBTftbnocYQVdb/oQjlR2IcPjWEW
+ UG2FHT5r
+
+Name: examples/stepper-motor/doc/html/README.html
+SHA-384-Digest: aILCAv9yTDWhfmlEH1zJBWdK9AjOFFbHhCVv5O04t2LBbZ+JdOfK5467
+ f+bHYC2A
+
+Name: examples/arp4761/advanced/misc/functional-initial.aadl
+SHA-384-Digest: 0XpENkC69/eq8jl8h7Rblcsjvzkl9ZFaxBknGpBfRhoyPFd4iVjHHekD
+ p5cN3yT8
+
+Name: examples/safety-tutorial/diagrams/FlightSystem_FlightSystem_tier1p
+ arts.aadl_diagram
+SHA-384-Digest: moJupKWrcK8I1fqGmgZG0P0baX02uYUQgQbZZMdp5Lzbcqgc3ukTjuCp
+ kzmBMHBw
+
+Name: examples/arp4761/advanced/implementation/wbs.aadl
+SHA-384-Digest: B7jFHsOF5A99tL30IzH2Hm5TzXe7ztboK0yarR3nRxHJxGNhFD+UPJuY
+ 3O7C8sNG
+
+Name: examples/ACVIP_ALISA/ALISA_Example/SEI.org
+SHA-384-Digest: hJcec/OiM1FBx37cqvO/z74l99slXrt+RCA58WAg9Dn5GJgvMo1+sEum
+ jVdAv6zG
+
+Name: examples/resource-budget/resourcebudgets.aadl
+SHA-384-Digest: gvHI8n8YYyKUpIDhOYX1TDxbamfbkD9zDo5nHtonmbzTRWFmUHclvAAY
+ FsUd91oF
+
+Name: examples/arp4761/simple/wheel.aadl
+SHA-384-Digest: ROmGez26KcSUu3TGcNSW7Rfi+dookSuk2bOY/kuNH6/PC1NnXjB81/7N
+ zA4XwbgJ
+
+Name: examples/arp4761/simple/wbs.aadl
+SHA-384-Digest: AhoqpebEMdaIOgjYMund0E/VekPharpbqCe2AZlPduR4CBwlMgkrZt6l
+ 44toAckC
+
+Name: examples/arp4761/simple/communication.aadl
+SHA-384-Digest: aD4PP8/mYtMJewk+Vx2r+u8NiX4W8uQ7xT0a+GN7a7iqcHMnLx31XDzn
+ tO0fCG8G
+
+Name: examples/arp4761/advanced/implementation/bscu.aadl
+SHA-384-Digest: gWGNQyJrKGvFkpXbaWFR7wv/BmUZ2hgnVLy267E+tLloirOXUFRPRZWM
+ 7hxWG+J4
+
+Name: examples/arp4761/advanced/functional/WBSFunctionalErrorLib.aadl
+SHA-384-Digest: XVPM2EG9UWVNIwpC8A8dV6Pp21D9gjpgEE85IPDGVyZ+trNIcUOmU9j5
+ hH/2scJs
+
+Name: examples/ACVIP_ALISA/ALISA_Example/SysMethods.methodregistry
+SHA-384-Digest: kUmcFVIdquPxr2MqwTkoao97dtfLpUQWdn7fX//mIzUzb9CZn29UqGFu
+ hjSWrveG
+
+Name: examples/ACVIP_ALISA/SCSProject/SoftwareParts.aadl
+SHA-384-Digest: c/zvb/+ftml5TTy6Rz96AF0dY7FvMFRG845IXI8jAmeAXkHIc2IPZ+Ct
+ SlukQKTu
+
+Name: examples/arp4761/doc/html/images/analyses-menu.png
+SHA-384-Digest: pq4zd00HA0RpmvVBeZjRIVfglKanskZE4qHw0pb9thQyNm1OArWtAnTa
+ ryXHjrl5
+
+Name: examples/arp4761/simple/proofs.aadl2
+SHA-384-Digest: YVnX3QmJ2dtbcqOe16EF7yQyV3Gx+0vZR5fVRvFMuZPpEaa3541N66iL
+ yOezQPaN
+
+Name: examples/arp4761/advanced/integration/main.aadl
+SHA-384-Digest: lzhkpCPcFNO8OWvRKaAflQfQ+myAQfq++Lz5FfSt2UQv6vFC2ArbAa8e
+ d6KDV1/C
+
+Name: examples/safety-tutorial/packages/GPSSystem.aadl
+SHA-384-Digest: ceLRDdHUKJrtWhJtmmZmwDW2Y3ufjdJnQFB79QAox2ON1R+qkrFOjnWh
+ V1MHGonV
+
+Name: examples/safety-tutorial/doc/html/README.html
+SHA-384-Digest: 40ZHfBrHkZbeUVyyw25jovl/oUsLnIow8b2Ls78slFjUlbTJFugLQTer
+ wVlQzlyf
+
+Name: examples/safety-tutorial/diagrams/FlightSystem_FlightSystem_DualGP
+ S.aadl_diagram
+SHA-384-Digest: qlUEOE7RdRnCMaLs6WHlCRjr8FT52mTRilRDmyZ4UM+IOGF4llPbkq4x
+ t0jxbVGt
+
+Name: examples/ACVIP_ALISA/SCSProject/IntegratedSCS.aadl
+SHA-384-Digest: j9hozRJM5D1hGXA7uCvDaAlRJ9yaJjMY4CjqREfr2EyzFp4JGMinUP8t
+ /YdTz2or
+
+Name: examples/arp4761/advanced/functional/throttle.aadl
+SHA-384-Digest: TZCTJO42z2QZsyh+BljaIOE2J4LHL/FfWwr58q/3CWi/3cms4cUw8SXo
+ O5aMruu7
+
+Name: examples/speed-regulation/model/icd.aadl
+SHA-384-Digest: OCoh2FjPWPMzmZGsMOx96hLJsXXX1zZFFwnhrT2Xnb0mWbNrpwtVFiVK
+ uSdIldRH
+
+Name: examples/ACVIP_ALISA/SCSProject/PhysicalParts.aadl
+SHA-384-Digest: r8UIvY3cv1IKJWa3XHxqBiReeXOwhVMXbDLy6T0ZGUSKaPkE05F8TDZw
+ c91s44LH
+
+Name: examples/stepper-motor/packages/SMErrorTypes.aadl
+SHA-384-Digest: nqRrkt/YXtgjBHXieeLskGrZ/i/cuzHarNVCUcLKnsaqJWgwfXkKdvBl
+ uKLo/1QE
+
+Name: examples/ACVIP_ALISA/ALISA_Example/SCSFamilyGoals.goaldoc
+SHA-384-Digest: Y6KxI8+Th7PNEkuSGD0RcqWPdEprxLVxOvu8TcbTMgKlGx0dUzRqFRxV
+ xA++TrOQ
+
+Name: examples/ACVIP_ALISA/SCSProject/temperature_sensor.aadl
+SHA-384-Digest: gpeoJWN2NFkzNsJkR+ayrAiPBTtrdtpeOXMMZHxRSOj11B1lma9j9Qb0
+ eU27/Nwt
+
+Name: examples/resource-budget/doc/html/images/tier2_not_bound_resource_
+ report.png
+SHA-384-Digest: dljXIS5G+xb0ImbTm+bDhMD7gYNB7+Hv+TexglE8TtEvQ8xoosGOPFk6
+ uIClp31k
+
+Name: examples/ACVIP/.project
+SHA-384-Digest: jc9fhRjTgSeRW8tt4j7VzJyAv/L0cx3BwS4UknRwnd0h4wgU168YhJ3j
+ z/mnBwho
+
+Name: examples/speed-regulation/.project
+SHA-384-Digest: bGjcstfgcatu3um530NLtMOynav1GCYFSnZPT2Fgdcz7hAHqIA5HnsJQ
+ mbzR37ik
+
+Name: examples/speed-regulation/doc/html/README.html
+SHA-384-Digest: c084otPNCV9bw8Fif8mSDvbWW+N4iWJquDVkkfDAwsu4HIKyoVSgWf5V
+ HBQuVO9k
+
+Name: examples/safety-tutorial/packages/AFGErrorLibrary.aadl
+SHA-384-Digest: WIEBfI4vY7aMQiM50XzuuJ23l2VXOvTMBFYNYO4NLm72IwhbZTeZTB9O
+ uFzxXAWP
+
+Name: examples/ACVIP/diagrams/InitialSCS_HighLevelSCS_i.aadl_diagram
+SHA-384-Digest: PyvwltlDoUGBMjiTK5/u5kAoQKtd7GbZq7GlKWyXiL+SWykkW94mmFuT
+ L1fZBrcV
+
+Name: examples/ACVIP_ALISA/ALISA_Example/doc/html/README.html
+SHA-384-Digest: 0/Yby368N6PWM6tyFe6eu6/IDhj47L+pzzzpJnzzPTLha7gkrR4K1kGM
+ e/HaexoW
+
+Name: examples/arp4761/simple/error.aadl
+SHA-384-Digest: FQ/QK7KhqeO6Khz/6G7ejKQWFX1ndVY0+5EeFY2TAz5zbADeBOFrllaC
+ aJwm0PDn
+
+Name: examples/arp4761/advanced/functional/main.aadl
+SHA-384-Digest: aeNqjSTSeH91nBpTM9bfnZGz0Nz5f7tYltfySmgI5S2ctoMZe8G5D62T
+ 4gvzJmLo
+
+Name: examples/ACVIP_ALISA/SCSProject/DataModel.aadl
+SHA-384-Digest: hp0KW8cHmRSEGTokih4xedWGxynvfdVTCNI3D5iK4cbARYCiIu4+ouU/
+ AbpGdmf3
+
+Name: examples/ACVIP/EfectorsInc/Brake.aadl
+SHA-384-Digest: mjkFRJwKDn59WN9vUjQxAB0Y8Q7y2eDl0hyG9/jP0T/w5Qx/CzhVZUV0
+ 5GpOidqG
+
+Name: examples/resource-budget/doc/html/README.html
+SHA-384-Digest: RZGVGqdCxIUnibyYGmIS9XACD/OOWuQQyS0aeraFtAfjbIWhUDmANtDx
+ UsO0QXxf
+
+Name: examples/safety-tutorial/.project
+SHA-384-Digest: gK6JuXWCIwx5iMvacu9+SXhTp6H4hy0dp02JwFIsaZVaNzp/GtdxKkDC
+ yQDHRYFq
+
+Name: examples/speed-regulation/model/integration.aadl
+SHA-384-Digest: AQtVSQNBYxq0iWJofZcNiWjNw7RmHMnj4aXlqdRTiwULdbj3UI3i1tAo
+ fky2zP8w
+
+Name: examples/ACVIP/doc/html/images/CheckFlowLatency.png
+SHA-384-Digest: FlrbJBHgpjewVPYl94cuJzmTJSi2XFeK+9ytCfXM+D65hj4kmnTov5CP
+ /Xif31hK
+
+Name: examples/continuous-safety-risk-evaluation/doc/ContinuousSafetyRis
+ kEvaluationByExample-Presentation.pdf
+SHA-384-Digest: 7v01YkEFiQm/MPlJaKWz4uPs3s0wPYPAapDO4yDLHKuNzRT9Rx8ieM6n
+ aGRu1u5q
+
+Name: examples/arp4761/advanced/implementation/communication.aadl
+SHA-384-Digest: hpqv0nJlihuthX8/jyd0B8fRfcMT+v6U6UwFF6ZRe/kDyGDr/iVpZ9ZZ
+ i4Xj7lit
+
+Name: examples/continuous-safety-risk-evaluation/diagrams/AircraftSafety
+ Example_AOADiscrepancy_ac_OneSensorSpec.aadl_diagram
+SHA-384-Digest: ngZvVfZnTyKtOuNEexaFm7M82dKj4VkZ9koxoGNB3/SU7ZDvo9a4/NCT
+ 0aKKmw+l
+
+Name: examples/ACVIP/MSI/Controller.aadl
+SHA-384-Digest: dsDx+kD5fIQ0obyY4JRugYv3o4IVsMguggWKKskySQt9impZarY7ampR
+ 13jnJWdk
+
+Name: examples/continuous-safety-risk-evaluation/doc/html/README.html
+SHA-384-Digest: Siuz+wd6VsoFK643S+tsiDYm6wFW6tLkjwxzDIPo8BkdsLPWYuaV/kIj
+ fNqJUKHn
+
+Name: examples/ACVIP_ALISA/ALISA_Example/SysReq.reqspec
+SHA-384-Digest: c4QOSpoD3ZvEIPcOZTouTN2sQOXYLgr/ls9WaujH7VPSnwswquDgJuUj
+ pFZobutL
+
+Name: examples/speed-regulation/model/devices.aadl
+SHA-384-Digest: 3rTJRw0UAo9r3GQu3BVQbS0jdQsEUzzHo9+EaOJzvXqjmdd4c4F8FQPP
+ 0tBKSQB1
+
+Name: examples/ACVIP_ALISA/SCSProject/isoletteDataModel.aadl
+SHA-384-Digest: 8iPapGwV6DTgyNxQe5rspxE8K6OoCedaEDPOnzMZm4TClKXkuzpD8dep
+ 2LWDMFEH
+
+Name: examples/arp4761/advanced/implementation/common.aadl
+SHA-384-Digest: InSS6ncE+RiebNhW37sAi66OYfEd7UQMrDNPK+Rl6aC5avxU5Jc1Uh/Y
+ KMBBQFQG
+
+Name: examples/continuous-safety-risk-evaluation/.project
+SHA-384-Digest: +V/k0C4YpuZ3SWhOWjNI+PQjRuCNbq0/iwdsDOhI9J9IEbck9wsh4ct6
+ ffcBcVQb
+
+Name: examples/arp4761/.project
+SHA-384-Digest: G9dGXJe4BhvjVvC4ioSBu/iUiQP/SUHZqnekYqlXUTK1tVahoLxy+b8M
+ CI82GGGQ
+
+Name: examples/arp4761/advanced/implementation/wheel.aadl
+SHA-384-Digest: HY2AD53aG4Ysy1Odo9iaJFfpEliN7cSIiglfXsukQY5z/EVCPqpgRCSk
+ nicxGO8P
+
+Name: examples/safety-tutorial/diagrams/GPSSystem_GPS_BasicRedundancy.aa
+ dl_diagram
+SHA-384-Digest: ND445EFP91oGdbqV+xPUC7kpYHCgQ4k0TBUI7DBReWHwsLqiOsDvMGdu
+ FpDsITTp
+
+Name: examples/resource-budget/doc/html/images/tier2_busload.png
+SHA-384-Digest: eXWf6zxnHJUGCkyOCEoyhxu6FtuK0/LoimEbQuts2XRqDUBR2lkrXVIH
+ 038dxy7s
+
+Name: examples/arp4761/advanced/implementation/pedals.aadl
+SHA-384-Digest: ciRIfkf8s3ChJJZiJ4knsbF5CiSuzPRSvsfpsuebImIgz2CpJLHyeFaK
+ CPhk/hpt
+

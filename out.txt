@@ -1,0 +1,97 @@
+13:18:00.940 [main] INFO org.apache.sshd.common.util.security.bouncycastle.BouncyCastleSecurityProviderRegistrar -- getOrCreateProvider(BC) created instance of org.bouncycastle.jce.provider.BouncyCastleProvider
+13:18:00.942 [main] DEBUG org.apache.sshd.common.util.security.SecurityUtils -- register(EdDSA) not registered - enabled=true, supported=false
+13:18:01.188 [main] INFO org.apache.sshd.common.io.DefaultIoServiceFactoryFactory -- No detected/configured IoServiceFactoryFactory; using Nio2ServiceFactoryFactory
+WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
+WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper (file:/D:/AADLParse/lib/plugins/com.google.guava_33.4.0.jre.jar)
+WARNING: Please consider reporting this to the maintainers of class com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper
+WARNING: sun.misc.Unsafe::objectFieldOffset will be removed in a future release
+基于OSATE检测的AADL错误信息:
+------------------------------
+检测到的aadl组件:
+AirConditioner
+AirConditioner.others
+HeatRegulator
+HeatRegulator.others
+HeaterSW
+HeaterSW.others
+Regulator
+Regulator.others
+HeaterCooler
+HeaterCooler.others
+Sensor
+Sensor.others
+HeaterCPU
+HeaterRAM
+------------------------------
+第1个组件 - AirConditioner
+  是Type类型的system
+    <java class 'org.osate.aadl2.impl.SystemTypeImpl'>
+第2个组件 - AirConditioner.others
+  是Implementation类型的system
+    <java class 'org.osate.aadl2.impl.SystemImplementationImpl'>
+      含子组件Settings
+      <java class 'org.osate.aadl2.impl.DeviceSubcomponentImpl'>
+      含子组件Temperature
+      <java class 'org.osate.aadl2.impl.DeviceSubcomponentImpl'>
+      含子组件HeaterStatus
+      <java class 'org.osate.aadl2.impl.DeviceSubcomponentImpl'>
+      含子组件HeatRegulator
+      <java class 'org.osate.aadl2.impl.SystemSubcomponentImpl'>
+      含局部链接HeatRegulator
+      <java class 'org.osate.aadl2.impl.SystemSubcomponentImpl'>
+      含局部链接HeatRegulator
+      <java class 'org.osate.aadl2.impl.SystemSubcomponentImpl'>
+      含局部链接HeatRegulator
+      <java class 'org.osate.aadl2.impl.SystemSubcomponentImpl'>
+      含局部链接HeatRegulator
+      <java class 'org.osate.aadl2.impl.SystemSubcomponentImpl'>
+第3个组件 - HeatRegulator
+  是Type类型的system
+    <java class 'org.osate.aadl2.impl.SystemTypeImpl'>
+第4个组件 - HeatRegulator.others
+  是Implementation类型的system
+    <java class 'org.osate.aadl2.impl.SystemImplementationImpl'>
+      含子组件HeaterRAM
+      <java class 'org.osate.aadl2.impl.MemorySubcomponentImpl'>
+      含子组件HeaterSW
+      <java class 'org.osate.aadl2.impl.ProcessSubcomponentImpl'>
+      含子组件HeaterCPU
+      <java class 'org.osate.aadl2.impl.ProcessorSubcomponentImpl'>
+      含局部链接HeaterCPU
+      <java class 'org.osate.aadl2.impl.ProcessorSubcomponentImpl'>
+      含局部链接HeaterCPU
+      <java class 'org.osate.aadl2.impl.ProcessorSubcomponentImpl'>
+      含局部链接HeaterCPU
+      <java class 'org.osate.aadl2.impl.ProcessorSubcomponentImpl'>
+      含局部链接HeaterCPU
+      <java class 'org.osate.aadl2.impl.ProcessorSubcomponentImpl'>
+第5个组件 - HeaterSW
+  是Type类型的process
+    其他类型
+第6个组件 - HeaterSW.others
+  是Implementation类型的process
+    其他类型
+第7个组件 - Regulator
+  是Type类型的thread
+    其他类型
+第8个组件 - Regulator.others
+  是Implementation类型的thread
+    其他类型
+第9个组件 - HeaterCooler
+  是Type类型的thread
+    其他类型
+第10个组件 - HeaterCooler.others
+  是Implementation类型的thread
+    其他类型
+第11个组件 - Sensor
+  是Type类型的thread
+    其他类型
+第12个组件 - Sensor.others
+  是Implementation类型的thread
+    其他类型
+第13个组件 - HeaterCPU
+  是Type类型的processor
+    其他类型
+第14个组件 - HeaterRAM
+  是Type类型的memory
+    其他类型
