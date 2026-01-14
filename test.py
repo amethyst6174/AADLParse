@@ -1,5 +1,3 @@
-# coding: utf-8
-
 import jpype
 import jpype.imports
 import glob
@@ -58,6 +56,16 @@ for i, elem in enumerate(aadl_component):
             case "system":
                 my_system = elem
                 print(f"{' '*4}{type(my_system)}")
+                features = my_system.getOwnedFeatures()
+                for f in features:
+                    print(f"{' '*6}{type(f)}")
+                    match str(f.getCategory()):
+                        case "event":
+                            print(f"{' '*6}事件端口 {f.getName()}")
+                        case "data":
+                            print(f"{' '*6}数据端口 {f.getName()}")
+                        case _:
+                            print(f"{' '*6}其他")
             case _:
                 print(f" "*4 + "其他类型")
         """

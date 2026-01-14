@@ -1,6 +1,6 @@
-13:18:00.940 [main] INFO org.apache.sshd.common.util.security.bouncycastle.BouncyCastleSecurityProviderRegistrar -- getOrCreateProvider(BC) created instance of org.bouncycastle.jce.provider.BouncyCastleProvider
-13:18:00.942 [main] DEBUG org.apache.sshd.common.util.security.SecurityUtils -- register(EdDSA) not registered - enabled=true, supported=false
-13:18:01.188 [main] INFO org.apache.sshd.common.io.DefaultIoServiceFactoryFactory -- No detected/configured IoServiceFactoryFactory; using Nio2ServiceFactoryFactory
+13:50:58.211 [main] INFO org.apache.sshd.common.util.security.bouncycastle.BouncyCastleSecurityProviderRegistrar -- getOrCreateProvider(BC) created instance of org.bouncycastle.jce.provider.BouncyCastleProvider
+13:50:58.213 [main] DEBUG org.apache.sshd.common.util.security.SecurityUtils -- register(EdDSA) not registered - enabled=true, supported=false
+13:50:58.464 [main] INFO org.apache.sshd.common.io.DefaultIoServiceFactoryFactory -- No detected/configured IoServiceFactoryFactory; using Nio2ServiceFactoryFactory
 WARNING: A terminally deprecated method in sun.misc.Unsafe has been called
 WARNING: sun.misc.Unsafe::objectFieldOffset has been called by com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper (file:/D:/AADLParse/lib/plugins/com.google.guava_33.4.0.jre.jar)
 WARNING: Please consider reporting this to the maintainers of class com.google.common.util.concurrent.AbstractFuture$UnsafeAtomicHelper
@@ -48,6 +48,14 @@ HeaterRAM
 第3个组件 - HeatRegulator
   是Type类型的system
     <java class 'org.osate.aadl2.impl.SystemTypeImpl'>
+      <java class 'org.osate.aadl2.impl.DataPortImpl'>
+      数据端口desiredTemp
+      <java class 'org.osate.aadl2.impl.DataPortImpl'>
+      数据端口currentTemp
+      <java class 'org.osate.aadl2.impl.EventPortImpl'>
+      事件端口heating
+      <java class 'org.osate.aadl2.impl.EventPortImpl'>
+      事件端口cooling
 第4个组件 - HeatRegulator.others
   是Implementation类型的system
     <java class 'org.osate.aadl2.impl.SystemImplementationImpl'>
